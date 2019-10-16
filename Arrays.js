@@ -41,7 +41,7 @@ const largerThan=arr.filter(n => n>3)
 //will return [4,5]
 
 //check whether element is in array or npt
-const people=["Ayush","Ankit","Priya"];
+const people=["Divek","Shraddha","Priya"];
 const hasPriya=people.includes("Priya");//will return true
 
 //populate an array of emptiness
